@@ -1,0 +1,20 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="kusala.Contracts/kusala.Contracts.csproj" Id="22bfda03-8acb-4ba2-afab-d140c5a91382">
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="kusala.Model/kusala.Model.csproj" Id="e2a8d667-20bf-4cc6-a615-a2c84822bb22">
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="kusala.Revit/kusala.Revit.csproj" Id="b7add914-39b9-4309-a6da-1d0115c0da91">
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="kusala/kusala.csproj">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
